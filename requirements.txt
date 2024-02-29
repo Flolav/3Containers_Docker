@@ -1,0 +1,5 @@
+streamlit
+pandas
+redis
+requests
+sentence_transformers
