@@ -1,4 +1,4 @@
-# 3 Multi-Containers Application
+# 3 Containers Application
  Application de NLP qui évalue la similarité entre deux phrases.
 
 ## Description
